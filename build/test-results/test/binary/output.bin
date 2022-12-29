@@ -1,0 +1,3 @@
+d03:39:48.980 [Test worker] DEBUG example.org.ReflectionTest - clazz: [class org.example.model.User]
+e03:39:48.982 [Test worker] DEBUG example.org.ReflectionTest - clazz2: [class org.example.model.User]
+e03:39:48.982 [Test worker] DEBUG example.org.ReflectionTest - clazz3: [class org.example.model.User]
